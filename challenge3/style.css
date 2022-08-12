@@ -1,7 +1,14 @@
 /* Add your code in each class */
 .container {
+  width:400px;
+  height: 300px;
+
 }
 .head {
+  background-color: rgb(224, 204, 91);
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
 }
 
 .row {
